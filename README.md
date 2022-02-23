@@ -1,5 +1,5 @@
 # GameMarble
-- GameMarble is a two player offline game. Stay inside the platform, attack and reduce your opponent's health until he/she runs out of healths. <br/>
+- GameMarble is a two player offline game. Stay inside the arena, attack and reduce your opponent's health until he/she runs out of healths. <br/>
 <pre>
 <img src="https://user-images.githubusercontent.com/56130302/150653864-76848328-7b7b-4c7a-934a-fda8dc963717.png" width="360">          <img src="https://user-images.githubusercontent.com/56130302/150653894-1721c7c4-eb17-4cdb-824b-50f04ed8c975.png" width="360">
 </pre>
