@@ -22,6 +22,10 @@ To win the game, attack until your opponent is dead or cause them to leave the a
 **Have Fun...** <br/>
 - [**Click here to play in the browser**](https://farukkayaduman.itch.io/gamemarble)
 
+## Developers
+- [Faruk Kayaduman](https://www.linkedin.com/in/faruk-kayaduman/)
+- [Osman Tahir Kuzu](https://www.linkedin.com/in/osman-tahir-kuzu-5629ab18b/)
+
 ## Sources
 - **Audios**:
   - Musics created using https://www.oceanwaves.io/, [Assets/Sounds](https://github.com/FarukKayaduman/GameMarble/tree/main/Assets/Sounds)
@@ -30,7 +34,3 @@ To win the game, attack until your opponent is dead or cause them to leave the a
   - Main Menu Background: https://pixabay.com/illustrations/space-science-fiction-cosmos-911785/
   - Main Menu Background 2: https://pixabay.com/photos/yellow-wall-concrete-design-gold-1845394/
   - Pause Button: https://www.flaticon.com/free-icon/pause_890781
-
-## Developers
-- [Faruk Kayaduman](https://www.linkedin.com/in/faruk-kayaduman/)
-- [Osman Tahir Kuzu](https://www.linkedin.com/in/osman-tahir-kuzu-5629ab18b/)
