@@ -1,12 +1,15 @@
 # GameMarble
 - GameMarble is a two player offline game. Stay inside the platform, attack and reduce your opponent's health until he/she runs out of healths.
-### How to Play?
-Oyunun amacı rakibinin can barını sıfırlayıp 3 tane olan canını da bitirmektir. Bunu yapabilmenin yolları ise rakibinizin arenadan çıkarılması/çıkması veya rakibiniz ile olan çarpışma anında onun y pozisyonundan daha yüksekte olarak ona hasar vermektir. Ayrıca en önemlisi arenadan dışarı çıkıp geri giremezseniz oyunu kaybedersiniz. Oyundaki zıplama mekaniğini yalnızca düz alandayken ve yere temas ederken kullanabilirsiniz.  
-- Arenaların ikisinde de eğer galip gelirseniz kendiniz 1 puan kazanırsınız aksi taktirde rakibiniz 1 puan kazanır. 2. arenada sonuçlar belli olur ve siz mi kazandınız yoksa rakibiniz mi kazandı ya da berabere mi bitti oyun sonu ekranında görürsünüz.  
-- **İyi Eğlenceler...**
-## Müzikler
-Ana menü müziği ve oyun müziği, https://www.oceanwaves.io/ sitesindeki hazır sesler kullanılarak hazırlanmış orijinal müziklerdir.  
-Oyun için yapılmış müzikler: https://drive.google.com/drive/folders/1dMoMMAI_q-3JWcgYYGgW4REAdBN1XQJz?usp=sharing
+## How to Play?
+To win the game, attack until your opponent is dead or cause them to leave the arena. Attack your opponent using the jump mechanic and the heights of the arena. 
+- Make sure you are higher than your opponent when attacking. Otherwise, you will take damage. - - Take care to stay inside the arena during the game. When you stay outside the arena, you lose regardless of your health.
+- Win the game by winning both arenas.<br/>
+
+**Reminder**: You can only use the jump mechanic while touching the ground. <br/>
+**Have Fun...**
+## Audios
+Audios created using https://www.oceanwaves.io/
+https://drive.google.com/drive/folders/1dMoMMAI_q-3JWcgYYGgW4REAdBN1XQJz?usp=sharing
 ## Detaylı Açıklamalar
 ### Müzikler
 - Ana menüdeyken ana menü müziği çalar. (0.sahne)  
