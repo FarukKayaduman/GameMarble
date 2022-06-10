@@ -23,7 +23,7 @@ To win the game, attack until your opponent is dead or cause them to leave the a
 - [**Click here to play in the browser**](https://farukkayaduman.itch.io/gamemarble)
 
 ## Developers
-- [Faruk Kayaduman](https://www.linkedin.com/in/faruk-kayaduman/)
+- [Faruk Kayaduman](https://www.linkedin.com/in/farukkayaduman/)
 - [Osman Tahir Kuzu](https://www.linkedin.com/in/osman-tahir-kuzu-5629ab18b/)
 
 ## Sources
